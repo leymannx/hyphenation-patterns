@@ -1,0 +1,22 @@
+{
+    "name": "@bramstein/hyphenation-patterns",
+    "version": "0.2.2",
+    "description": "Hyphenation patterns for use with Hypher",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bramstein/hyphenation-patterns.git"
+    },
+    "keywords": [
+        "hypher",
+        "hyphenation",
+        "hyphen",
+        "pattern",
+        "patterns",
+        "languages"
+    ],
+    "license": "LGPL",
+    "homepage": "https://github.com/bramstein/hyphenation-patterns#readme"
+}
